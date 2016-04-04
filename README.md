@@ -1,4 +1,4 @@
-This is a simplest [Scrapy](https://github.com/scrapy/scrapy) project. current at its 1.5 version.
+This is a simplest [Scrapy](https://github.com/scrapy/scrapy) project. current at its 1.05 version.
 
 Inside there is a download middleware working with a [selenium grid](http://www.seleniumhq.org/docs/), which is a web browser programming interface and is very suitable for javascript rendering job for web data grabbing.
 
